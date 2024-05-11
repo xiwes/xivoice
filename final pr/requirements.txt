@@ -1,0 +1,10 @@
+# Основные зависимости
+pyTelegramBotAPI
+yandex-speechkit
+yandexgpt
+
+# База данных
+sqlite3
+
+# Дополнительные
+requests
